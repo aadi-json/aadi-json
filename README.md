@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Aditya Gawande
 
-### Software Developer • Full-Stack Engineer • Competitive Programmer
+### Software Developer • Python Developer • QA Automation Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Software+Developer+%F0%9F%92%BB;Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript;System+Design+%7C+DSA+%7C+Open+Source;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;QA+Automation+Engineer+%F0%9F%A7%AA;Django+%7C+Selenium+%7C+Playwright;DSA+%7C+SQL+%7C+REST+APIs;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/DakshGautam101"><img src="https://img.shields.io/github/followers/DakshGautam101?label=Followers&style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/u/Daksh_gautam251/"><img src="https://img.shields.io/badge/LeetCode-1865%20Knight-orange?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://www.linkedin.com/in/daksh-gautam1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/aadi-json"><img src="https://img.shields.io/github/followers/aadi-json?label=Followers&style=for-the-badge&logo=github" /></a>
+  <a href="https://leetcode.com/u/adi_gawande/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://www.linkedin.com/in/adityagawandee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 </div>
@@ -18,92 +18,114 @@
 
 ## 👨‍💻 About Me
 
-I'm **Daksh Gautam**, a **Software Developer** and BCA student focused on building reliable, scalable and user-friendly software.
+I'm **Aditya Gawande**, a **Software Developer and QA Automation Engineer** focused on building reliable applications and improving software quality through automation.
 
-- 💼 **Intern at CodeQuotient**
-- 🚀 Building full-stack applications with **MERN, Next.js and TypeScript**
-- 🧩 Interested in **System Design, backend architecture and distributed systems**
-- 🧠 Strong focus on **Data Structures & Algorithms** and competitive programming
-- 🌱 Currently exploring **Open Source** and making my first contributions
-- ⚙️ Curious about how systems work under the hood — from the **Node.js event loop to databases, caching and real-time systems**
-- 🎯 Goal: become a strong software engineer capable of designing and building production-grade systems
+* 💼 **Analyst Trainee at Cognizant**
+* 🐍 Building applications and automation solutions with **Python**
+* 🧪 Interested in **QA Automation, Software Testing and API Testing**
+* 🚀 Working with **Django, Selenium, Playwright and PyTest**
+* 🗄️ Strong interest in **SQL, databases and REST APIs**
+* 🧠 Practicing **Data Structures & Algorithms** and problem-solving
+* 🌱 Continuously learning new technologies and improving my engineering skills
+* 🎯 Goal: become a strong software engineer capable of building and testing production-ready applications
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-### Frontend
+### Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,react,selenium" />
 </p>
 
-### Backend & Databases
+### Testing & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
-### Cloud, DevOps & Tools
+* 🧪 **Automation:** Selenium, Playwright, PyTest
+* 🔍 **Testing:** Functional, Regression, Smoke, Sanity, Exploratory
+* 🔌 **API Testing:** REST APIs, Postman, JSON validation
+* 🏗️ **Design:** Page Object Model (POM)
+
+### Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### Other
+* 🗄️ **Database:** MySQL, SQLite
+* 🔎 **SQL:** Joins, filtering, validation and data manipulation
 
-- 🔌 **Real-time:** Socket.IO, WebSockets
-- 🔐 **Authentication:** JWT, HTTP-only Cookies
-- 📦 **Storage:** AWS S3, Cloudinary
-- 🏗️ **Architecture:** REST APIs, Caching, Queues, Scalable Backend Design
-- 🧠 **System Design:** API design, database design, caching, load balancing, scalability and distributed-system fundamentals
+### Tools & Concepts
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+* ⚙️ **Tools:** Git, GitHub, VS Code, Linux
+* 📚 **Concepts:** OOP, SDLC, STLC, REST APIs, Debugging, Agile
+* ☁️ **Cloud:** AWS fundamentals
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☕ Mumbai Chai Cafe
-A full-stack cafe application focused on a smooth ordering experience, product management and modern UI.
+### 🧪 OrangeHRM Automation
 
-**Tech:** Next.js • React • TypeScript • Node.js • MongoDB
+An end-to-end test automation project covering major OrangeHRM modules including Login, Employee, Leave, Recruitment and User Administration.
 
-### 🎵 Real-Time Spotify
-A Spotify-inspired music application with **real-time communication and messaging**, combining music features with social interaction.
+**Tech:** Python • Playwright • Selenium • PyTest • POM • Postman • MySQL
 
-**Tech:** React • Node.js • Express • MongoDB • Socket.IO
+### 🏦 Cyclos Banking Platform Automation
 
-### 🖥️ macOS Portfolio
-A portfolio designed around a **macOS-inspired desktop interface**, with interactive windows and a distinctive developer-focused experience.
+Automation testing project covering banking workflows such as account creation, transfers, payments and user management.
 
-**Tech:** Next.js • React • TypeScript • Tailwind CSS • Framer Motion
+**Tech:** Python • Playwright • PyTest • Postman • SQL
 
-### 🤖 Dev-AI
-An AI-powered developer environment combining **Google Gemini AI** with an interactive coding experience and **Sandpack**.
+### 🌐 StudyHub
 
-**Tech:** Next.js • React • TypeScript • Gemini API • Sandpack
+A Django-based discussion and blogging platform where users can create rooms, participate in discussions and exchange messages.
+
+**Tech:** Python • Django • SQLite • HTML • CSS • REST API
+
+### 🛒 Trendify
+
+An e-commerce web application with product browsing, cart functionality and online payment integration.
+
+**Tech:** React.js • Redux • JavaScript • HTML • CSS • Tailwind CSS • Razorpay
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Data Structures & Algorithms
 
-<div align="center">
+I regularly practice algorithmic problems and focus on understanding problem-solving patterns.
 
-| Platform | Rating | Achievement | Solved |
-|:---:|:---:|:---:|:---:|
-| 🟧 **LeetCode** | **1865** | 🏅 Knight | **582+** |
-| 🔵 **Codeforces** | **1065** | — | **60+** |
-
-</div>
+* Arrays
+* Two Pointers
+* Sliding Window
+* Hashing
+* Binary Search
+* Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Sorting
+* Greedy Algorithms
 
 ### LeetCode
 
-<a href="https://leetcode.com/u/Daksh_gautam251/">
-  <img src="https://leetcard.jacoblin.cool/Daksh_gautam251?theme=dark&font=baloo&ext=contest" alt="Daksh's LeetCode Stats" />
+<a href="https://leetcode.com/u/adi_gawande/">
+  <img src="https://leetcard.jacoblin.cool/adi_gawande?theme=dark&font=baloo&ext=contest" alt="Aditya's LeetCode Stats" />
 </a>
-
-I enjoy solving algorithmic problems and continuously improving my understanding of **DSA, problem-solving patterns and algorithmic thinking**.
 
 ---
 
@@ -111,12 +133,13 @@ I enjoy solving algorithmic problems and continuously improving my understanding
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DakshGautam101&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DakshGautam101&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=aadi-json&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-json&theme=radical&hide_border=true" width="49%" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshGautam101&theme=react-dark&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi-json&theme=react-dark&hide_border=true" width="95%" />
 
 </div>
 
@@ -126,7 +149,7 @@ I enjoy solving algorithmic problems and continuously improving my understanding
 
 <div align="center">
 
-<img src="https://github.com/DakshGautam101/DakshGautam101/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://github.com/aadi-json/aadi-json/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -136,25 +159,28 @@ I enjoy solving algorithmic problems and continuously improving my understanding
 
 <div align="center">
 
-<a href="https://github.com/DakshGautam101">
+<a href="https://github.com/aadi-json">
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/daksh-gautam1/">
+
+<a href="https://www.linkedin.com/in/adityagawandee/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/Daksh_gautam251/">
+
+<a href="https://leetcode.com/u/adi_gawande/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:dakshgautam675@gmail.com">
+
+<a href="mailto:adityagawande2004@zohomail.in">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 <br /><br />
 
-**📧 dakshgautam675@gmail.com**
+**📧 [adityagawande2004@zohomail.in](mailto:adityagawande2004@zohomail.in)**
 
 </div>
 
@@ -162,7 +188,7 @@ I enjoy solving algorithmic problems and continuously improving my understanding
 
 <div align="center">
 
-> 💡 *Build. Break. Learn. Improve.*
+> 💡 *Build. Test. Learn. Improve.*
 
 ### ✨ Keep Learning. Keep Building. ✨
 
