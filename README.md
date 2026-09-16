@@ -143,17 +143,6 @@ I regularly practice algorithmic problems and focus on understanding problem-sol
 
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/aadi-json/aadi-json/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
