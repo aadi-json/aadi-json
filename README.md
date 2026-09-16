@@ -121,28 +121,6 @@ I regularly practice algorithmic problems and focus on understanding problem-sol
 * Sorting
 * Greedy Algorithms
 
-### LeetCode
-
-<a href="https://leetcode.com/u/adi_gawande/">
-  <img src="https://leetcard.jacoblin.cool/adi_gawande?theme=dark&font=baloo&ext=contest" alt="Aditya's LeetCode Stats" />
-</a>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aadi-json&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadi-json&theme=radical&hide_border=true" width="49%" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadi-json&theme=react-dark&hide_border=true" width="95%" />
-
-</div>
-
 
 ## 🌐 Let's Connect
 
