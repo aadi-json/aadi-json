@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Gawande
+# 👋 Hi, I'm Aditya Rekha Santosh Gawande
 
 ### Software Developer • Python Developer • QA Automation Engineer
 
